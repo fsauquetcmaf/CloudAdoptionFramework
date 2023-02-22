@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'wa-namingtool-frc-int'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E7A384EB2514BB9BCEF33046ED49AE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB9DFC99F7DA4D0E9A22391549CBE4E2 }}
           package: .
